@@ -21,6 +21,7 @@ include "function.php";
 
 
     printArr($numbers);
+    echo "The largest is " .largest($numbers);
     ?>
 </body>
 </html>
