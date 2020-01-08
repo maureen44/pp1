@@ -22,6 +22,7 @@ include "function.php";
 
     printArr($numbers);
     echo "The largest is " .largest($numbers);
+    echo "The array without dublicates is " .printArr(removeDubs($numbers));
     ?>
 </body>
 </html>

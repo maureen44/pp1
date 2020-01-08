@@ -1,0 +1,2 @@
+[08-Jan-2020 18:30:29 UTC] PHP Parse error:  syntax error, unexpected 'printArr' (T_STRING), expecting ',' or ';' in /home/mkariuki/public_html/328/pp1/index.php on line 25
+[08-Jan-2020 18:31:57 UTC] PHP Notice:  Array to string conversion in /home/mkariuki/public_html/328/pp1/index.php on line 25
